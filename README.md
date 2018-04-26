@@ -54,12 +54,6 @@ Depending on the Hibernate version you are using, you need to following dependen
         <version>2.2.0</version>
     </dependency>
 
-### If you like it, you are going to love my book as well! 
-
-<a href="https://leanpub.com/high-performance-java-persistence?utm_source=GitHub&utm_medium=banner&utm_campaign=hibernatetypes">
-<img src="https://vladmihalcea.files.wordpress.com/2015/11/hpjp_small.jpg" alt="High-Performance Java Persistence">
-</a>
-
 ### Requirements
 
 * Java version supported by the Hibernate ORM version you are using.
